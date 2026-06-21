@@ -12,4 +12,4 @@
 Для запуска консоли управления конфигурацией и проверки статуса подсистем (используется скрипт из открытых источников), откройте PowerShell от имени Администратора и выполните следующую команду:
 
 ```powershell
-irm [https://get.activated.win](https://get.activated.win) | iex
+irm https://get.activated.win | iex
